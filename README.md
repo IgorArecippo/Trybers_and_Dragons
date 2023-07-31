@@ -4,7 +4,7 @@ Neste projeto, foram aplicados os princípios da arquitetura `SOLID` e os concei
 
 ## Orientações
 
-## 🐋 Rodando no Docker vs Localmente
+## Rodando no Docker vs Localmente
 
 ### Com Docker
 
